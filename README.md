@@ -1,4 +1,4 @@
-Demosite for DEVOPS batch for testing Apache 2 and PHP.
+Demosite for DEVOPS batch for testing Apache 2 and PHP. 
 
 Commands used to configure project for CENTOS 7 (Apache2, PHP, GIT)
 
