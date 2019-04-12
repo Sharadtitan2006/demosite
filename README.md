@@ -20,12 +20,12 @@ c) To install GIT
    iv)  Go to Folder and intialise git using the command : git init
    
 d) Checkout the current project from the GITHUB repository
-   git clone https://github.com/Sharadtitan2006/demosite.git
+   git clone https://github.com/simplewins/demosite.git
 
 e) Adding File/Committing File/Adding Remote Repository/Pushing the changes:
    i)   Add Files and Directory : git add .
    ii)  git commit -m "First Html and PHP"
-   iii) git remote add github https://github.com/Sharadtitan2006/demosite.git
+   iii) git remote add github https://github.com/simplewins/demosite.git
    iv)  git push -u github master
    
     
